@@ -20,7 +20,7 @@
   "conferences": [
     {
       "confFullName": "Southeastern",
-      "confPrestige": "95",
+      "confPrestige": "100",
       "confName": "SEC",
       "confTeams": [
         {
@@ -96,7 +96,7 @@
           "rivalryNames": {
             "TAMU": "Sabine Showdown"
           },
-          "prestige": "95",
+          "prestige": "98",
           "hexColor": "#461D7C"
         },
         {
