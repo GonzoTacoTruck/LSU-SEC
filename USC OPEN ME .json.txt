@@ -11,10 +11,10 @@
   },
   "relegationRoutes": {
     "SEC": "SUN",
-    "B10": "MAC",
+    "B10": "MWC",
     "ACC": "COL",
     "B12": "CUSA",
-    "PAC": "MWC",
+    "PAC": "MAC",
     "AAC": "GWC"
   },
   "conferences": [
