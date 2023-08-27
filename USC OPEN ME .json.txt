@@ -3,10 +3,10 @@
 "StartingYear": 2023,
   "promotionRoutes": {
     "SUN": "SEC",
-    "PAC": "B10",
+    "MWC": "B10",
     "COL": "ACC",
     "CUSA": "B12",
-    "MWC": "MAC",
+    "MAC": "PAC",
     "AAC": "GWC"
   },
   "relegationRoutes": {
@@ -1278,7 +1278,7 @@
             "BSU"
           ],
           "rivalryNames": {},
-          "prestige": "65",
+          "prestige": "95",
           "hexColor": "#024731"
         },
         {
