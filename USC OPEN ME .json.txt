@@ -1,6 +1,6 @@
 {
 "name":"Tacoking Universe",
-"StartingYear": 2023,
+"StartingYear": 2024,
   "promotionRoutes": {
     "SUN": "SEC",
     "MWC": "B10",
@@ -1468,7 +1468,6 @@
     }
   ],
   "bowlGames": [
-    "National Championship",
     "Rose Bowl",
     "Peach Bowl",
     "Sugar Bowl",
@@ -1505,6 +1504,7 @@
     "Boca Raton Bowl",
     "Chick-Fil-A Bowl",
     "Quick Lane Bowl",
-    "Nike Bowl"
+    "Nike Bowl",
+    "National Championship"
   ]
 }
