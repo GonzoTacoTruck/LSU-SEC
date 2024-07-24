@@ -3,10 +3,10 @@
 "StartingYear": 2024,
   "promotionRoutes": {
     "SUN": "SEC",
-    "MWC": "B10",
+    "PAC": "B10",
     "COL": "ACC",
     "CUSA": "B12",
-    "MAC": "PAC",
+    "MAC": "MWC",
     "AAC": "GWC"
   },
   "relegationRoutes": {
