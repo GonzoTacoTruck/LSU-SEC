@@ -624,7 +624,7 @@
           "rivalryNames": {
             "ORE": "West Coast Clash"
           },
-          "prestige": "74",
+          "prestige": "79",
           "hexColor": "#990000"
         },
         {
