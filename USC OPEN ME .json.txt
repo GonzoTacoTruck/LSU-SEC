@@ -550,6 +550,11 @@
           ],
           "rivalryNames": {
             "ORSU": "Civil War"
+          }, "rival": [
+            "USC"
+          ],
+          "rivalryNames": {
+            "USC": "West Coast Clash"
           },
           "prestige": "90",
           "hexColor": "#154733"
@@ -613,8 +618,13 @@
           ],
           "rivalryNames": {
             "UCLA": "The Battle of L.A."
+          },"rival": [
+            "ORE"
+          ],
+          "rivalryNames": {
+            "ORE": "West Coast Clash"
           },
-          "prestige": "98",
+          "prestige": "74",
           "hexColor": "#990000"
         },
         {
