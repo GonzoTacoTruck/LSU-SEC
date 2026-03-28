@@ -1,6 +1,6 @@
 {
 "name":"Tacoking Universe",
-"StartingYear": 2024,
+"StartingYear": 2026,
   "promotionRoutes": {
     "SUN": "SEC",
     "PAC": "B10",
